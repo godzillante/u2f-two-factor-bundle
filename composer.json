@@ -15,6 +15,9 @@
         "scheb/two-factor-bundle": "^1.4 | ^2.0",
         "yubico/u2flib-server": "^0.1.0 | ^1.0.0"
     },
+    "conflict": {
+        "darookee/u2f-two-factor-bundle": "*"
+    },
     "autoload": {
         "psr-4": {
             "R\\U2FTwoFactorBundle\\": ""
