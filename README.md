@@ -1,4 +1,4 @@
-# r/u2f-two-factor-bundle
+# tubssz/u2f-two-factor-bundle
 
 This Symfony2 bundle provides u2f authentication for your website using
 [scheb/two-factor-bundle](https://github.com/scheb/two-factor-bundle).
@@ -8,7 +8,7 @@ This Symfony2 bundle provides u2f authentication for your website using
 ### Step 1: Download using Composer
 
 ```shell
-php composer.phar require r/u2f-two-factor-bundle
+php composer.phar require tubssz/u2f-two-factor-bundle
 ```
 
 ### Step 2: Enable the bundles
