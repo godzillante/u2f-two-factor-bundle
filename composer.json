@@ -1,9 +1,9 @@
 {
-    "name": "r/u2f-two-factor-bundle",
+    "name": "tubssz/u2f-two-factor-bundle",
     "type": "symfony-bundle",
-    "description": "Use U2F-Keys as 2FA for Symfony2, using scheb/two-factor-bundle",
-    "keywords": ["two-factor", "two-step", "authentication", "symfony2", "fido", "yubikey"],
-    "homepage": "https://github.com/darookee/u2f-two-factor-bundle",
+    "description": "Use U2F-Keys as 2FA for Symfony, using scheb/two-factor-bundle",
+    "keywords": ["two-factor", "two-step", "authentication", "symfony", "fido", "yubikey"],
+    "homepage": "https://github.com/tubssz/u2f-two-factor-bundle",
     "license": "MIT",
     "authors": [
         {
