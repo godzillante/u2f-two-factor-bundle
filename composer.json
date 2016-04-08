@@ -1,5 +1,5 @@
 {
-    "name": "tubssz/u2f-two-factor-bundle",
+    "name": "godzillante/u2f-two-factor-bundle",
     "type": "symfony-bundle",
     "description": "Use U2F-Keys as 2FA for Symfony, using scheb/two-factor-bundle",
     "keywords": ["two-factor", "two-step", "authentication", "symfony", "fido", "yubikey"],
@@ -9,6 +9,10 @@
         {
             "name": "Nils Uliczka",
             "email": "nils.uliczka@darookee.net"
+        },
+        {
+            "name": "Francesco De Francesco",
+            "email": "francesco.defrancesco@gmail.com"
         }
     ],
     "require": {
